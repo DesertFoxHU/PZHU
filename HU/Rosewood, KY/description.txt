@@ -1,0 +1,10 @@
+Rosewood
+ <LINE> <LINE>
+ Egy rövid látogatás Rosewoodban kellemes, nah még a hosszútávú?
+ A híres Knox fegyház bennlakói elmondják neked: az nem mókás!
+ <LINE> <LINE>
+ Ideally situated geographically for ease of access, Rosewood is a community hub for administration
+ and community services as well as a leading incarceration center.
+ The county courthouse, a recently refurbished fire department and a lively law enforcement facility
+ make this one of the most important towns in the area! Come visit today!
+

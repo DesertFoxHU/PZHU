@@ -1,0 +1,5 @@
+MultiStageBuild_HU = {
+    MultiStageBuild_CreateWoodenWall_1 = "1. szintű fafal készítés",
+    MultiStageBuild_CreateWoodenWall_2 = "2. szintű fafal készítés",
+    MultiStageBuild_CreateWoodenWall_3 = "3. szintű fafal készítés",
+}
